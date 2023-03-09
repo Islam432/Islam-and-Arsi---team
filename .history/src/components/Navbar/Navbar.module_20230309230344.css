@@ -1,0 +1,17 @@
+.cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+  background: #ffffff;
+  border: 2px solid #ccc;
+}
+
+.allnav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  width: 90%;
+  height: 10vh;
+  border: 2px solid black;
+}

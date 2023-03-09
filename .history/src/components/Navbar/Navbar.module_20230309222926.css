@@ -1,0 +1,14 @@
+.cont {
+  display: flex;
+  
+  height: 20vh;
+  background: #ffffff;
+  border: 2px solid #ccc;
+}
+
+.allnav{
+    align-items: center;
+   
+    padding: 20px;
+   border: 2px solid black;
+}

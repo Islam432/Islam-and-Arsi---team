@@ -1,0 +1,13 @@
+.cont {
+  display: flex;
+  
+  height: 20vh;
+  background: #ffffff;
+  border: 2px solid #ccc;
+}
+
+.allnav{
+ display: flex;
+ margin: 50px;
+   border: 2px solid black;
+}

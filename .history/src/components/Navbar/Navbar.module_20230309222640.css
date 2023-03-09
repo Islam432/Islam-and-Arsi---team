@@ -1,0 +1,7 @@
+.cont {
+  display: flex;
+  width: 100px;
+  height: 20vh;
+  background: #ffffff;
+  border: 2px solid #ccc;
+}
