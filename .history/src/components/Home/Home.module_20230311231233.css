@@ -1,0 +1,14 @@
+.cont{
+    margin: 0;
+
+   
+ 
+}
+.blok1{
+    background-image: url('./Banner.jpg');
+  width: 100%;
+ object-fit: cover;
+min-height: 110vh;
+    border: 2px solid black;
+    background-size: cover;
+}

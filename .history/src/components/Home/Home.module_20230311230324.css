@@ -1,0 +1,12 @@
+.cont{
+    margin: 0;
+
+   
+  border: 2px solid black;
+}
+.blok1{
+    background:url('./Banner.jpg') ;
+   height: 40vh;
+ 
+    border: 2px solid black;
+}

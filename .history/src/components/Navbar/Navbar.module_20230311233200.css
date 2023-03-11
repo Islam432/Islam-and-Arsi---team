@@ -1,0 +1,39 @@
+.cont {
+    margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+  background: #ffffff;
+border-bottom: 4px solid #333;
+}
+
+.allnav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  height: 10vh;
+ 
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 28px;
+
+  font-family: Roboto;
+  font-style: Bold;
+  font-size: 17px;
+
+}
+.NavLink{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+input{
+  font-size: 18px;
+  outline: none;
+  padding: 5px;
+  transition: all 0.5s es; 
+}
