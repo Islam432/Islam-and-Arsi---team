@@ -8,7 +8,7 @@
     background-image: url('./Banner.jpg');
   width: 100%;
  object-fit: cover;
-min-height: 110vh;
-
-    background-size: cover;
+min-height: 100vh;
+background-repeat: no-repeat;
+    background-size: 100% ;
 }
